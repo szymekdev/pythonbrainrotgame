@@ -3,7 +3,7 @@ import os
 
 # this is for those who know
 number = random.randint(1,10)
-guess = input(" all the sigmas put number between 1 and 10 ")
+guess = input("all the sigmas put number between 1 and 10:")
 guess = int (guess)
 
 # mewing 
